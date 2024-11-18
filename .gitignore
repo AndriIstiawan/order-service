@@ -4,3 +4,4 @@ package-lock.json
 data/
 public/
 .DS_Store
+.nyc_output/
